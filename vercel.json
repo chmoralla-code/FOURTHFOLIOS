@@ -3,8 +3,8 @@
   "installCommand": "npm install",
   "outputDirectory": ".next",
   "env": [
-    "NEXT_PUBLIC_SUPABASE_URL",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    "SUPABASE_SERVICE_ROLE_KEY"
+    "https://wqidiwswjmqfauxklrhv.supabase.co",
+    "sb_publishable_nisNZmc2IBxCfq3Oc0Og3A_7TpofDwK",
+    "sb_secret__OWtpMHCn1TJgZCjHUaYWA_o7UozRrq"
   ]
 }
